@@ -22,4 +22,14 @@ class Program
 	{
 		System.Console.WriteLine("Тут был Ростислав"); 
 	}
+
+
+
+
+
+
+    static void NotBestMethod()
+    {
+        Console.WriteLine("Тут был Андрей");
+    }
 }
